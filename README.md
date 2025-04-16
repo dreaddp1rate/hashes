@@ -1,0 +1,2 @@
+# hashes
+hashcat + JTR
