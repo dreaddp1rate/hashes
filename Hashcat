@@ -1,4 +1,7 @@
-# all about hashcat
+# Hashcat example page
+"https://hashcat.net/wiki/doku.php?id=example_hashes"
+
+# Cracking
 cracking hashes with hashcat : hashcat -m x -a x /usr/share/wordlists/insertlisthere insertfileforcracking
 EXAMPLE
 hashcat -m 3200 -a 0 hash.txt /usr/share/wordlists/insertwordlisthere
