@@ -1,2 +1,4 @@
 # all about hashcat
 cracking hashes with hashcat : hashcat -m x -a x /usr/share/wordlists/insertlisthere insertfileforcracking
+EXAMPLE
+hashcat -m 3200 -a 0 hash.txt /usr/share/wordlists/insertwordlisthere
